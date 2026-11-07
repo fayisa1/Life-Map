@@ -1,0 +1,7 @@
+[
+ {"id":"makkah","name":"Adhan Makkah","file":"adhan/makkah.mp3"},
+ {"id":"madinah","name":"Adhan Madinah","file":"adhan/madinah.mp3"},
+ {"id":"haram","name":"Haram Makki (Muhammad Ramadan Saad)","file":"adhan/haram-makki.mp3"},
+ {"id":"classic","name":"Classic adhan","file":"adhan/classic.mp3"},
+ {"id":"long","name":"Adhan (long recording)","file":"adhan/long.mp3"}
+]

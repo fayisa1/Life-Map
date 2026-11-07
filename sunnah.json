@@ -1,0 +1,313 @@
+{
+ "fasts": {
+  "ramadan": {
+   "t": "Ramadan fast",
+   "k": "wajib",
+   "rule": "Obligatory on every sane, adult, resident Muslim who is able, for the whole month.",
+   "ev": [
+    {
+     "en": "So whoever among you witnesses the month, let him fast it.",
+     "ref": "Qur’an 2:185",
+     "g": "Qur’an",
+     "s": "T"
+    },
+    {
+     "en": "When the month of Ramadan comes, the gates of Paradise are opened…",
+     "ref": "Bukhari · Fasting (reader #3142)",
+     "g": "Sahih",
+     "s": "L"
+    }
+   ]
+  },
+  "qada": {
+   "t": "Making up missed Ramadan days (qada)",
+   "k": "wajib",
+   "rule": "Each missed day (illness, travel, menses, postnatal bleeding) is made up later, before the next Ramadan where possible.",
+   "ev": [
+    {
+     "en": "…and whoever is ill or on a journey – then an equal number of other days.",
+     "ref": "Qur’an 2:185",
+     "g": "Qur’an",
+     "s": "T"
+    },
+    {
+     "en": "I had to complete some of the fasts of Ramadan, but I could not do it except in Sha’ban… (A’isha)",
+     "ref": "Muslim · Fasting (reader #2571)",
+     "g": "Sahih",
+     "s": "L"
+    }
+   ]
+  },
+  "monthu": {
+   "t": "Mondays & Thursdays",
+   "k": "sunnah",
+   "rule": "Recommended weekly.",
+   "ev": [
+    {
+     "en": "Deeds are presented on Monday and Thursday, and I love that my deeds be presented while I am fasting.",
+     "ref": "Tirmidhi · Fasting (reader #747)",
+     "g": "Hasan (Darussalam)",
+     "s": "L"
+    }
+   ]
+  },
+  "white": {
+   "t": "White days (13th, 14th, 15th of each Hijri month)",
+   "k": "sunnah",
+   "rule": "Recommended every month; fasting three days a month is the standing advice of the Prophet ﷺ.",
+   "ev": [
+    {
+     "en": "My friend (the Prophet) advised me to do three things… to fast three days every month, to offer the Duha prayer, and to offer witr before sleeping. (Abu Hurayrah)",
+     "ref": "Bukhari · Tahajjud (reader #1143)",
+     "g": "Sahih",
+     "s": "L"
+    },
+    {
+     "en": "If you fast three days of the month, fast the 13th, 14th and 15th. (Abu Dharr)",
+     "ref": "Tirmidhi · Fasting (#761) / an-Nasa’i",
+     "g": "Hasan",
+     "s": "T"
+    }
+   ]
+  },
+  "shawwal": {
+   "t": "Six days of Shawwal",
+   "k": "sunnah",
+   "rule": "After Ramadan; may be fasted together or spread through Shawwal (not on Eid day).",
+   "ev": [
+    {
+     "en": "Whoever fasts Ramadan then follows it with six days of Shawwal, it is as if he fasted for a lifetime.",
+     "ref": "Ibn Majah · Fasting (reader #1450); also Muslim",
+     "g": "Sahih (Darussalam)",
+     "s": "L"
+    }
+   ]
+  },
+  "arafah": {
+   "t": "Day of ‘Arafah (9 Dhul-Hijjah)",
+   "k": "sunnah",
+   "rule": "Recommended for those not performing Hajj.",
+   "ev": [
+    {
+     "en": "Fasting on the Day of ‘Arafah, I hope from Allah, expiates for the sins of the year before and the year after.",
+     "ref": "Ibn Majah · Fasting (reader #1464); also Muslim",
+     "g": "Sahih (Darussalam)",
+     "s": "L"
+    }
+   ]
+  },
+  "dh": {
+   "t": "First nine days of Dhul-Hijjah",
+   "k": "sunnah",
+   "rule": "Righteous deeds are most beloved to Allah in these days; fasting them is recommended by the scholars.",
+   "ev": [
+    {
+     "en": "There are no days in which righteous deeds are more beloved to Allah than these ten days.",
+     "ref": "Bukhari · ‘Id (#969) / Abu Dawud, Tirmidhi",
+     "g": "Sahih",
+     "s": "T"
+    }
+   ]
+  },
+  "ashura": {
+   "t": "‘Ashura (10 Muharram) with the 9th",
+   "k": "sunnah",
+   "rule": "Fast the 10th; fasting the 9th with it is recommended.",
+   "ev": [
+    {
+     "en": "Fasting the day of ‘Ashura’, I hope, will expiate for the sins of the previous year.",
+     "ref": "Ibn Majah · Fasting (reader #1472); also Muslim",
+     "g": "Sahih (Darussalam)",
+     "s": "L"
+    },
+    {
+     "en": "If I live until next year, I will surely fast the ninth. (Ibn ‘Abbas)",
+     "ref": "Muslim · Fasting (#1134)",
+     "g": "Sahih",
+     "s": "T"
+    }
+   ]
+  },
+  "shaban": {
+   "t": "Sha’ban (especially its second half to the 14th)",
+   "k": "sunnah",
+   "rule": "The Prophet ﷺ fasted most of Sha’ban; stop 1–2 days before Ramadan unless it is your habit.",
+   "ev": [
+    {
+     "en": "I never saw the Messenger of Allah ﷺ fast a whole month except Ramadan, and I never saw him fast more in any month than in Sha’ban. (A’isha)",
+     "ref": "Bukhari (#1969) / Muslim (#1156)",
+     "g": "Sahih",
+     "s": "T"
+    }
+   ]
+  },
+  "eid": {
+   "t": "‘Eid al-Fitr and ‘Eid al-Adha",
+   "k": "haram",
+   "rule": "Fasting these two days is forbidden.",
+   "ev": [
+    {
+     "en": "The Messenger of Allah ﷺ forbade fasting on these two days: ‘Id al-Adha and ‘Id al-Fitr.",
+     "ref": "Muslim · Fasting (reader #2556)",
+     "g": "Sahih",
+     "s": "L"
+    }
+   ]
+  },
+  "tashreeq": {
+   "t": "Days of Tashreeq (11–13 Dhul-Hijjah)",
+   "k": "haram",
+   "rule": "Days of eating and drinking; fasting is not allowed (a limited exception for pilgrims without a sacrificial animal).",
+   "ev": [
+    {
+     "en": "The days of Tashriq are the days of eating and drinking.",
+     "ref": "Muslim · Fasting (reader #2561)",
+     "g": "Sahih",
+     "s": "L"
+    },
+    {
+     "en": "The day of ‘Arafah, the day of sacrifice, the days of Tashriq are our festival, O people of Islam. These are the days of eating and drinking.",
+     "ref": "Abu Dawud (reader #2420)",
+     "g": "Sahih (Al-Albani)",
+     "s": "L"
+    }
+   ]
+  },
+  "friday": {
+   "t": "Friday alone",
+   "k": "makruh",
+   "rule": "Do not single out Friday for fasting unless it falls with your habitual fast or you fast the day before/after.",
+   "ev": [
+    {
+     "en": "Do not single out the night before Friday for prayer, and do not single out Friday among days for fasting, except when one of you is accustomed to fast on a date that coincides with it.",
+     "ref": "Muslim · Fasting (reader #2568)",
+     "g": "Sahih",
+     "s": "L"
+    }
+   ]
+  },
+  "pre": {
+   "t": "The day or two before Ramadan",
+   "k": "makruh",
+   "rule": "Do not advance Ramadan with a fast, unless it matches a habitual fast (e.g. Monday/Thursday).",
+   "ev": [
+    {
+     "en": "Do not fast one day or two days just before Ramadan, except in the case of a man who has been in the habit of observing a fast on that day.",
+     "ref": "Abu Dawud (reader #2336)",
+     "g": "Sahih (Al-Albani)",
+     "s": "L"
+    }
+   ]
+  }
+ },
+ "friday": {
+  "obl": {
+   "t": "Jumu’ah prayer (wajib)",
+   "rule": "Obligatory in congregation on every adult, sane, resident male Muslim. Not required of women, children, the sick, or the traveller (they pray Dhuhr; women may attend).",
+   "ev": [
+    {
+     "en": "O you who have believed, when the call is made for prayer on the day of Jumu’ah, then proceed to the remembrance of Allah and leave trade.",
+     "ref": "Qur’an 62:9",
+     "g": "Qur’an",
+     "s": "T"
+    },
+    {
+     "en": "The Friday prayer in congregation is a necessary duty for every Muslim, with four exceptions: a slave, a woman, a boy, and a sick person.",
+     "ref": "Abu Dawud · Prayer (reader #1068)",
+     "g": "Sahih (Al-Albani)",
+     "s": "L"
+    },
+    {
+     "en": "Whoever missed three jumu’ahs out of negligence, Allah will place a seal over his heart.",
+     "ref": "an-Nasa’i · Friday (reader #1372)",
+     "g": "Hasan (Darussalam)",
+     "s": "L"
+    }
+   ]
+  },
+  "ghusl": {
+   "t": "Ghusl (full bath)",
+   "rule": "Strongly recommended (the majority view); some scholars hold it obligatory.",
+   "ev": [
+    {
+     "en": "Ghusl on Friday is compulsory for every Muslim reaching the age of puberty.",
+     "ref": "Bukhari · Friday (reader #837)",
+     "g": "Sahih",
+     "s": "L"
+    }
+   ]
+  },
+  "clean": {
+   "t": "Siwak, perfume & best clothes",
+   "rule": "Recommended preparation.",
+   "ev": [
+    {
+     "en": "Whoever takes a bath on Friday, purifies himself as much as he can, then uses oil or perfume… then proceeds and prays as much as was written for him and remains silent while the Imam delivers the khutbah, his sins between that Friday and the next are forgiven.",
+     "ref": "Bukhari · Friday (reader #862)",
+     "g": "Sahih",
+     "s": "L"
+    }
+   ]
+  },
+  "early": {
+   "t": "Going early",
+   "rule": "The earlier you arrive, the greater the reward.",
+   "ev": [
+    {
+     "en": "Any person who takes a bath on Friday and then goes for the prayer early, it is as if he had sacrificed a camel…",
+     "ref": "Bukhari · Friday (reader #860)",
+     "g": "Sahih",
+     "s": "L"
+    }
+   ]
+  },
+  "kahf": {
+   "t": "Reciting Surat al-Kahf",
+   "rule": "Recommended from Thursday sunset through Friday.",
+   "ev": [
+    {
+     "en": "Whoever recites Surat al-Kahf on the day of Jumu’ah, a light will shine for him between the two Fridays.",
+     "ref": "al-Hakim, al-Bayhaqi",
+     "g": "Sahih (Al-Albani); Hasan (Ibn Hajar)",
+     "s": "T"
+    }
+   ]
+  },
+  "salawat": {
+   "t": "Abundant salawat on the Prophet ﷺ",
+   "rule": "Recommended on Friday.",
+   "ev": [
+    {
+     "en": "Among the best of your days is Friday… so send abundant blessings upon me on it, for your blessings are presented to me.",
+     "ref": "Abu Dawud (#1047), an-Nasa’i, Ibn Majah",
+     "g": "Sahih (Al-Albani)",
+     "s": "T"
+    }
+   ]
+  },
+  "dua": {
+   "t": "Dua in the hour of acceptance",
+   "rule": "Seek it especially in the last hour after ‘Asr.",
+   "ev": [
+    {
+     "en": "Friday is twelve hours in which there is no Muslim slave who asks Allah for something but He will give it to him, so seek it in the last hour after ‘Asr.",
+     "ref": "an-Nasa’i · Friday (reader #1394)",
+     "g": "Sahih (Darussalam)",
+     "s": "L"
+    }
+   ]
+  },
+  "best": {
+   "t": "Why Friday",
+   "rule": "",
+   "ev": [
+    {
+     "en": "The best day on which the sun has risen is Friday; on it Adam was created…",
+     "ref": "Muslim · Friday (reader #1868)",
+     "g": "Sahih",
+     "s": "L"
+    }
+   ]
+  }
+ }
+}
